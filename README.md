@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://github-readme-stats.vercel.app/api?username=rin-liner&count_private=true&show_icons=true
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=rin-liner&count_private=true&show_icons=true&theme=chartreuse-dark)
 
 <!--
 **rin-liner/rin-liner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
