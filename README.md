@@ -1,7 +1,11 @@
 ## Hi there 👋
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=rin-liner&count_private=true&show_icons=true&theme=chartreuse-dark)
-![Top languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rin-liner&layout=compact&theme=chartreuse-dark)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rin-liner&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin-liner&layout=compact&theme=chartreuse-dark" />
+</a>
 Hello World!
 
 はろーわるど！
